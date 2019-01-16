@@ -15,7 +15,7 @@ a {
   color: #000000;
 }
 
-.start-game {
+.btn.start-game {
   width: 150px;
   font-size: inherit;
   color: inherit;
@@ -24,7 +24,7 @@ a {
   border-color: #f7f0ea; 
 }
 
-.start-game:hover {
+.btn.start-game:hover {
   font-weight: bolder;
   background-color: #f1f1f1;
   border-color: #f1f1f1; 
